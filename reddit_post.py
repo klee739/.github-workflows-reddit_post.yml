@@ -18,7 +18,7 @@ reddit = praw.Reddit(
 #Amazon
 title = "Get $200 by signing up for Amazon VISA using my link!"
 body = "Use my link to get $200 when you get approved for Prime Visa! https://www.amazon.com/dp/BT00LN946S?externalReferenceId=b0424843-0799-4cd6-839d-5b9d8c6cceac"
-subreddits = ["Referral", "Referrals"]
+subreddits = ["ReferalLinks"]
 
 
 # Submit post to each subreddit
