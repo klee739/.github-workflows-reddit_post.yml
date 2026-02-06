@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 15 * * *'   # 11 AM ET
     - cron: '0 18 * * *'   # 2 PM ET
-  #  - cron: '0 22 * * *'   # 6 PM ET
+    - cron: '0 22 * * *'   # 6 PM ET
   workflow_dispatch:
 
 jobs:
