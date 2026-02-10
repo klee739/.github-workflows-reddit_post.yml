@@ -2,9 +2,10 @@ name: Reddit Auto Poster
 
 on:
   schedule:
-    - cron: '0 15 * * *'   # 11 AM ET
-    - cron: '0 18 * * *'   # 2 PM ET
-    - cron: '0 22 * * *'   # 6 PM ET
+    - cron: '0 13 * * *'   # 10 AM ET
+    - cron: '0 16 * * *'   # 1 PM ET
+    - cron: '0 19 * * *'   # 4 PM ET
+    - cron: '0 22 * * *'
   workflow_dispatch:
 
 jobs:
