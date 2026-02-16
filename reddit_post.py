@@ -12,7 +12,7 @@ reddit = praw.Reddit(
 
 # Post details
 title = "Use my link for up to $1000 off Tesla credit or free FSD!"
-body = "Use my link to get to get up to $1000 off or 3 months of Full Self-Driving (Supervised) or $400 off Solar Panel installation! https://www.tesla.com/referral/kyeu702786"
+body = "https://www.tesla.com/referral/kyeu702786"
 subreddits = ["teslareferralcode", "TeslaReferralsCode"]
 
 
