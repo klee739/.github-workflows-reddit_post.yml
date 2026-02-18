@@ -2,6 +2,9 @@ name: Reddit Auto Poster
 
 on:
   schedule:
+    - cron: '7 1 * * *'
+    - cron: '7 4 * * *'
+    - cron: '7 7 * * *'
     - cron: '7 10 * * *'   # 10 AM ET
     - cron: '7 13 * * *'   # 1 PM ET
     - cron: '7 16 * * *'   # 4 PM ET
